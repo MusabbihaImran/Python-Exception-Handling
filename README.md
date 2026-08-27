@@ -1,10 +1,10 @@
-#Python Exception Handling
+# Python Exception Handling
 
 A collection of Python examples and practical exercises demonstrating exception handling and error management.
 
 The repository was created as part of university coursework and covers common Python exceptions, exception-handling structures, and techniques for dealing with runtime errors.
 
-##📚 Topics Covered
+## 📚 Topics Covered
 try and except
 else and finally
 Handling multiple exceptions
@@ -15,7 +15,7 @@ AssertionError
 Common built-in exceptions
 Input validation
 Error messages and recovery
-##📁 Files
+## 📁 Files
 Practice.py
 
 A collection of practical examples covering different Python exceptions and exception-handling techniques, including:
@@ -42,9 +42,9 @@ AttributeError
 ValueError
 IndexError
 finally blocks
-##🛠️ Technology
+## 🛠️ Technology
 Python
-##▶️ Running the Examples
+## ▶️ Running the Examples
 
 Make sure Python is installed, then run either file from the repository directory:
 
@@ -56,6 +56,6 @@ python Task.py
 
 The examples are designed to demonstrate exception-handling behavior through console output.
 
-##🎓 Project Context
+## 🎓 Project Context
 
 These programs were developed as university coursework and practice while learning Python exception handling and error management.
